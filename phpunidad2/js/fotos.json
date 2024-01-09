@@ -1,0 +1,13 @@
+miCallback([{
+    "Fecha":"",
+    "Lugar":"",
+    "comentario":"",
+    "img":""
+},
+{
+    "Fecha":"05/06/2022", 
+    "Lugar":"",
+    "comentario":"Nube de magallanes",
+    "img":"https://espanol.news/telescopio-espacial-james-webb-en-tramo-final/"
+
+}]);
